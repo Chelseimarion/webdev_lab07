@@ -1,5 +1,7 @@
 td, th {
 	border: 1px solid;
+	border-collaspe: collapse;
+	text-align: center;
   }
 
 body { 
@@ -13,7 +15,3 @@ body {
   padding: 25px 50px 70px100px;
 }
 
-table {
-	border-collaspe: collapse;
-	text-align: center;
-}
