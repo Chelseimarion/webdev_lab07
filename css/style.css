@@ -8,6 +8,7 @@ body {
   background-repeat: repeat-x;
 }
 
-div { 
+#planet-facts { 
+  text-align: center;
   padding: 25px 50px 70px100px;
 }
