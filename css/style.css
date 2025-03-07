@@ -1,25 +1,24 @@
-td, th {
-	border: 1px solid;
-	border-collaspe: collapse;
-	text-align: center;
-	font-family: "Times New Roman", Times, serif;
-	color: white;
-  }
+td, th { 
+  border: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
 
 body { 
   background-image: url("../Media/starbackground.jpg");
-  background-repeat: repeat-y;
-  background-repeat: repeat-x;
+  background-repeat: repeat;
 }
 
 #planet-facts { 
   text-align: center;
-  padding: 25px 50px 70px100px;
+  padding: 25px 50px 70px 100px; /* Fixed spacing */
 }
 
 table {
-        border-collaspe: collapse;
-	text-align: center;
-	font-family: "Times New Roman", Times, serif;
-	color: white;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
 }
