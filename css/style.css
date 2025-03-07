@@ -7,3 +7,7 @@ body {
   background-repeat: repeat-y;
   background-repeat: repeat-x;
 }
+
+div { 
+  padding: 25px 50px 70px100px;
+}
