@@ -12,3 +12,8 @@ body {
   text-align: center;
   padding: 25px 50px 70px100px;
 }
+
+table {
+	border-collaspe: collapse;
+	text-align: center;
+}
